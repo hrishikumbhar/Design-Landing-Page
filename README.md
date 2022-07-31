@@ -1,4 +1,5 @@
-# Assignment 1
+# Project 8 :- Design Landing Page
+
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -8,7 +9,6 @@
 
 ![](https://img.shields.io/badge/Hrishikesh--Kumbhar-Software--Engineer-blue)
 
-# Project 8
 
 ### What I Learned from this Project?
 
@@ -16,6 +16,8 @@
 
 ### This project took around 3 hours to complete.
 
+### Project Link : [Link](https://design-landing-page-dashboard.netlify.app/)
+
 ### Screenshot
 
-![](./screenshot/Screenshot%20(23).png)
+![](./screenshot/Proj8.png)
