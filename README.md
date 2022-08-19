@@ -13,11 +13,12 @@
 ### What I Learned from this Project?
 
 - Learned to use flex grow, shrink & basis
+- Learned to create linear-gradient background color
 
 ### This project took around 3 hours to complete.
 
-### Project Link : [Link](https://design-landing-page-dashboard.netlify.app/)
+### Project Link : [Link](https://proj8-design-landing-page.netlify.app/)
 
 ### Screenshot
 
-![](./screenshot/Proj8.png)
+![](./screenshot/PROJ_8.png)
